@@ -1,6 +1,12 @@
 .App {
   text-align: center;
 }
+.monster-heading{
+  font-family: 'Bigelow Rules', cursive;
+  font-size: 44px;
+  color: #95dada;
+  font-weight: bolder;
+}
 
 .App-logo {
   height: 40vmin;
